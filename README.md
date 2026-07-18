@@ -4,7 +4,7 @@
 
 An interactive computer vision project that transforms your webcam into a magical garden. Using **MediaPipe Hands**, the application tracks hand gestures in real time, allowing users to bloom flowers, grow stems, and create wind through natural hand movements.
 
----
+---a
 
 ## ✨ Demo
 
